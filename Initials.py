@@ -1,11 +1,11 @@
 # File: initials.py
-# Description: Prints student initials in stylized large block letters using strings and print functions.
-# Assignment Number: 1
+# Description: Print out my initials
+# Assignment Number: 2
 #
 # Name: Nenya Aperko Duku
-# STUDENT ID: <YOUR SID>
-# Email: <YOUR EMAIL>
-# Grader: <YOUR GRADER'S NAME Carolyn OR Emma or Ahmad>
+# STUDENT ID:2425404065
+# Email:2425404065@gctu.live.edu.gh
+# Grader:Ausgustus
 #
 # On my honor, Nenya Aperko Duku, this programming assignment is my own work
 # and I have not provided this code to any other student.
